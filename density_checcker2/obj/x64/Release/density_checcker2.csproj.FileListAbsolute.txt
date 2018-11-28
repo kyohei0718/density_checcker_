@@ -1,0 +1,10 @@
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\bin\x64\Release\density_checcker2.exe.config
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\bin\x64\Release\density_checcker2.exe
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\bin\x64\Release\density_checcker2.pdb
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.csprojAssemblyReference.cache
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.Form1.resources
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.Properties.Resources.resources
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.csproj.GenerateResource.cache
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.csproj.CoreCompileInputs.cache
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.exe
+C:\Users\miyoshi\source\repos\density_checcker2\density_checcker2\obj\x64\Release\density_checcker2.pdb
