@@ -14,6 +14,7 @@ namespace density_checcker2
 {
     public class octree
     {
+        //aa
         public static double boxelsize;
         public static point3D cp = new point3D();
         public static point3D bp = new point3D();
